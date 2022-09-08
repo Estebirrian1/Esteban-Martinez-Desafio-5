@@ -1,0 +1,11 @@
+.logo {
+    font-size: 20px;
+}
+
+.texto {
+    height: 155px;
+}
+
+.color {
+    background-image: linear-gradient(to left, blue, green);
+}
